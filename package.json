@@ -1,0 +1,21 @@
+{
+    "name": "obsidian-theme",
+    "displayName": "Obsidian Theme",
+    "description": "The obsidian theme for VS Code. Based on the Obsidian Theme from Notepad++",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Obsidian Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Obsidian Theme-color-theme.json"
+            }
+        ]
+    }
+}
