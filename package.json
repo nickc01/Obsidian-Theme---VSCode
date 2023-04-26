@@ -17,5 +17,11 @@
                 "path": "./themes/Obsidian Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "LICENSE.MD",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nickc01/Obsidian-Theme-VSCode.git"
+      }
 }
